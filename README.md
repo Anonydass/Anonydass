@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonydass" alt="anonydass" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dssdass" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dssdass?logo=twitter&style=for-the-badge" alt="https://twitter.com/dssdass" /></a> </p>
+
 
 - 🌱 I’m currently learning **Django**
 
